@@ -26,6 +26,11 @@ public class DemoTest {
         System.out.println(Arrays.toString(persons.toArray()));
         System.out.println("*************************************");
         System.out.println(Arrays.toString(sortByAgePersons.toArray()));
+        System.out.println("*************************************");
+        List<Person> sortByAgePersons2 =
+            persons.parallelStream().filter((Person p) -> p.getAge() > 30).collect(Collectors.toList());
+        System.out.println(Arrays.toString(sortByAgePersons2.toArray()));
+
     }
 }
 
