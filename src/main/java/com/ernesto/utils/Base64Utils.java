@@ -5,6 +5,7 @@ import java.util.Base64;
 
 /**
  * 基于 Java JDK8 java.util.Base64 的加密/解密工具类
+ * 线程不安全
  *
  * @author Ren, Jianyong
  * @date 2019/12/30

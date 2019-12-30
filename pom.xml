@@ -31,6 +31,16 @@
             <artifactId>commons-codec</artifactId>
             <version>1.10</version>
         </dependency>
+        <dependency>
+            <groupId>commons-lang</groupId>
+            <artifactId>commons-lang</artifactId>
+            <version>2.5</version>
+        </dependency>
+        <dependency>
+            <groupId>csp.iobs.sdk</groupId>
+            <artifactId>csp-iobs</artifactId>
+            <version>1.1.0</version>
+        </dependency>
 
     </dependencies>
 
