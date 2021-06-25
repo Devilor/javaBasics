@@ -1,8 +1,7 @@
-package com.ernesto.lambad;
+package com.daike.lambad;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
 import java.util.function.Function;

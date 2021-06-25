@@ -1,10 +1,8 @@
-package com.ernesto.demo;
+package com.daike.demo;
 
-import com.ernesto.utils.Base64Utils;
-import com.ernesto.utils.EncodeUtils;
+import com.daike.utils.EncodeUtils;
 
 import java.io.UnsupportedEncodingException;
-import java.util.Base64;
 
 /**
  * @author Ernesto

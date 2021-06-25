@@ -1,4 +1,4 @@
-package com.ernesto.utils;
+package com.daike.utils;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Base64;

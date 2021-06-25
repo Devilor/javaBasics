@@ -1,4 +1,4 @@
-package com.ernesto.utils;
+package com.daike.utils;
 
 import org.apache.commons.codec.binary.Base64;
 
